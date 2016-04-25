@@ -1,8 +1,9 @@
 # Framer
 
-`framer` is a companion to `libero` from iMatix Corporation, which
-generates a Framed HTML view (hence the name) of the `libero` dialog
-(state machine description).
+`framer` is a companion to
+[libero](https://github.com/imatix-legacy/libero) from iMatix
+Corporation, which generates a Framed HTML view (hence the name)
+of the `libero` dialog (state machine description).
 
 It is written in Perl v4, and implemented using a state machine, for 
 which the implementation (in `framer.d`) is built using `libero` to 
