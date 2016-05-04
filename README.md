@@ -23,5 +23,5 @@ Originally released under the GNU GPL v2, a copy of which can be found in
 
 On [2016-04-29 it was also released under the
 MPLv2](https://github.com/imatix-legacy/license) ([license
-text](https://www.mozilla.org/en-US/MPL/2.0/)), so `framer` can
+text](https://imatix-legacy.github.io/license/MPLv2.html)), so `framer` can
 be used under either GPLv2 or MPLv2.
