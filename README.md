@@ -18,5 +18,10 @@ this the only documentation is the source code.
 every made stand alone); the other files were unpacked from `framer.zip`
 for ease of reference.
 
-Released under the GNU GPL v2, a copy of which can be found in 
+Originally released under the GNU GPL v2, a copy of which can be found in
 [COPYING](COPYING).
+
+On [2016-04-29 it was also released under the
+MPLv2](https://github.com/imatix-legacy/license) ([license
+text](https://www.mozilla.org/en-US/MPL/2.0/)), so `framer` can
+be used under either GPLv2 or MPLv2.
